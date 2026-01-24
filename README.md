@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-4%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-5%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 A 30-day challenge building a project every day using AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -25,7 +25,7 @@ Build and ship 30 projects in 30 days. No polish, no perfection—just consisten
 | 02 | Snake | Nokia 3310-style Snake game | [Repo](https://github.com/nunocoracao/Vibe30-day02-Snake) | [Play](https://vibe30-day02-snake.vercel.app) | ✅ |
 | 03 | RPG | Turn-based browser RPG with isometric graphics | [Repo](https://github.com/nunocoracao/Vibe30-day03-RPG) | [Play](https://vibe30-day03-rpg.vercel.app) | ✅ |
 | 04 | Tetris | Classic Tetris with 3D-styled blocks | [Repo](https://github.com/nunocoracao/Vibe30-day04-tetris) | [Play](https://vibe30-day04-tetris.vercel.app) | ✅ |
-| 05 | | | | | ⬜ |
+| 05 | Breakout | Breakout arcade game with power-ups | [Repo](https://github.com/nunocoracao/Vibe30-day05-breakout) | [Play](https://vibe30-day05-breakout.vercel.app) | ✅ |
 | 06 | | | | | ⬜ |
 | 07 | | | | | ⬜ |
 | 08 | | | | | ⬜ |
