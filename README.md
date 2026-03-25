@@ -5,17 +5,23 @@
 ![Progress](https://img.shields.io/badge/Progress-0%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
 
-A 30-day challenge building a project every day using AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
+30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
 
 ## The Challenge
 
-Build and ship 30 projects in 30 days. No polish, no perfection—just consistent output and learning in public.
+Build and ship 30 projects using vibe coding. No polish, no perfection — just consistent output and learning in public.
 
-**Rules:**
-- One project per day
-- Must be functional and deployed
-- Document what worked and what didn't
-- Share progress publicly
+**A note on honesty:** I didn't build these one-per-day in real-time. I'm a single dad with a full-time job — some days I had time to build two or three projects, other days life got in the way and I built none. The work happened over roughly 30 days of calendar time, but the "one project per day" framing is how I'm releasing and documenting them, not a strict daily log. I don't want to mislead anyone into thinking this requires sitting down every single day without fail. Real life doesn't work like that.
+
+**What's real:**
+- Every project was built from scratch using AI-assisted coding
+- Every project is functional and deployed
+- The total effort was ~30 projects over ~30 days
+- Each blog post documents what actually happened during the build
+
+**What's a framing choice:**
+- Releasing one per day for 30 consecutive days
+- The "Day X" numbering is the release order, not necessarily the build order
 
 ## Projects
 
@@ -67,12 +73,16 @@ Build and ship 30 projects in 30 days. No polish, no perfection—just consisten
 Projects are built with whatever makes sense for the day. Common tools:
 - Next.js / React
 - TypeScript
+- Tailwind CSS
+- Firebase
+- Tauri / Wails (native apps)
+- Go / Rust (TUI & native apps)
 - Vercel for deployment
 - Claude for AI-assisted coding
 
 ## About
 
-I'm Nuno, building in public while balancing a full-time job and life as a single dad. This challenge is about proving that consistent small steps beat waiting for perfect conditions.
+I'm Nuno, building in public while balancing a full-time job and life as a single dad. This challenge is about proving that with the right tools, you can ship a lot — even when you don't have perfect conditions or infinite time.
 
 ## License
 
