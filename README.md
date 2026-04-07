@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-1%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-2%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -28,7 +28,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | Day | Name | Description | Repo | Live | Status |
 |-----|------|-------------|------|------|--------|
 | 01 | Platformer | A browser-based platformer game with 10 levels, vanilla JS and HTML5 Canvas | [Repo](https://github.com/nunocoracao/Vibe30-day01-ThePlatformer) | [Play](https://vibe30-day01-the-platformer.vercel.app) | ✅ |
-| 02 | | | | | ⬜ |
+| 02 | Snake | A Nokia 3310-style Snake game with authentic LCD graphics, retro sound effects, and a full phone frame | [Repo](https://github.com/nunocoracao/Vibe30-day02-Snake) | [Play](https://vibe30-day02-snake.vercel.app) | ✅ |
 | 03 | | | | | ⬜ |
 | 04 | | | | | ⬜ |
 | 05 | | | | | ⬜ |
