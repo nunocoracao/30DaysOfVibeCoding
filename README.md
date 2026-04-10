@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-4%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-5%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -31,7 +31,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | 02 | Snake | A Nokia 3310-style Snake game with authentic LCD graphics, retro sound effects, and a full phone frame | [Repo](https://github.com/nunocoracao/Vibe30-day02-Snake) | [Play](https://vibe30-day02-snake.vercel.app) | ✅ |
 | 03 | Realm of Shadows | A turn-based RPG with isometric graphics, character creation, combat, quests, and a save system | [Repo](https://github.com/nunocoracao/Vibe30-day03-RPG) | [Play](https://vibe30-day03-rpg.vercel.app) | ✅ |
 | 04 | Tetris | A classic Tetris game with 3D-styled blocks, the Korobeiniki theme, sound effects, and all the features you'd expect | [Repo](https://github.com/nunocoracao/Vibe30-day04-tetris) | [Play](https://vibe30-day04-tetris.vercel.app) | ✅ |
-| 05 | | | | | ⬜ |
+| 05 | Breakout | A classic Breakout arcade game with 5 levels, power-ups, combo scoring, and particle effects | [Repo](https://github.com/nunocoracao/Vibe30-day05-breakout) | [Play](https://vibe30-day05-breakout.vercel.app) | ✅ |
 | 06 | | | | | ⬜ |
 | 07 | | | | | ⬜ |
 | 08 | | | | | ⬜ |
