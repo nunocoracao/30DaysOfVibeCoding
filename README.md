@@ -32,7 +32,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | 03 | Realm of Shadows | A turn-based RPG with isometric graphics, character creation, combat, quests, and a save system | [Repo](https://github.com/nunocoracao/Vibe30-day03-RPG) | [Play](https://vibe30-day03-rpg.vercel.app) | ✅ |
 | 04 | Tetris | A classic Tetris game with 3D-styled blocks, the Korobeiniki theme, sound effects, and all the features you'd expect | [Repo](https://github.com/nunocoracao/Vibe30-day04-tetris) | [Play](https://vibe30-day04-tetris.vercel.app) | ✅ |
 | 05 | Breakout | A classic Breakout arcade game with 5 levels, power-ups, combo scoring, and particle effects | [Repo](https://github.com/nunocoracao/Vibe30-day05-breakout) | [Play](https://vibe30-day05-breakout.vercel.app) | ✅ |
-| 06 | Pomodoro | A terminal-based Pomodoro timer built in Go with Bubble Tea, ASCII art, session tracking, and weekly stats | [Repo](https://github.com/nunocoracao/Vibe30-day06-pomodoro) | [GitHub](https://github.com/nunocoracao/Vibe30-day06-pomodoro) | ✅ |
+| 06 | Pomodoro | A terminal-based Pomodoro timer built in Go with Bubble Tea, ASCII art, session tracking, and weekly stats | [Repo](https://github.com/nunocoracao/Vibe30-day06-pomodoro) | [Release](https://github.com/nunocoracao/Vibe30-day06-pomodoro/releases/latest) | ✅ |
 | 07 | | | | | ⬜ |
 | 08 | | | | | ⬜ |
 | 09 | | | | | ⬜ |
