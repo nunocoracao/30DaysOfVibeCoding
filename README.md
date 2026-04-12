@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-6%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-7%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -33,7 +33,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | 04 | Tetris | A classic Tetris game with 3D-styled blocks, the Korobeiniki theme, sound effects, and all the features you'd expect | [Repo](https://github.com/nunocoracao/Vibe30-day04-tetris) | [Play](https://vibe30-day04-tetris.vercel.app) | ✅ |
 | 05 | Breakout | A classic Breakout arcade game with 5 levels, power-ups, combo scoring, and particle effects | [Repo](https://github.com/nunocoracao/Vibe30-day05-breakout) | [Play](https://vibe30-day05-breakout.vercel.app) | ✅ |
 | 06 | Pomodoro | A terminal-based Pomodoro timer built in Go with Bubble Tea, ASCII art, session tracking, and weekly stats | [Repo](https://github.com/nunocoracao/Vibe30-day06-pomodoro) | [Release](https://github.com/nunocoracao/Vibe30-day06-pomodoro/releases/latest) | ✅ |
-| 07 | | | | | ⬜ |
+| 07 | GitDash | A terminal dashboard for monitoring git repositories with color-coded status, search, and quick actions | [Repo](https://github.com/nunocoracao/Vibe30-day07-gitdash) | [Release](https://github.com/nunocoracao/Vibe30-day07-gitdash/releases/latest) | ✅ |
 | 08 | | | | | ⬜ |
 | 09 | | | | | ⬜ |
 | 10 | | | | | ⬜ |
