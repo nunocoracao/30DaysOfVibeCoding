@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-7%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-8%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -34,7 +34,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | 05 | Breakout | A classic Breakout arcade game with 5 levels, power-ups, combo scoring, and particle effects | [Repo](https://github.com/nunocoracao/Vibe30-day05-breakout) | [Play](https://vibe30-day05-breakout.vercel.app) | ✅ |
 | 06 | Pomodoro | A terminal-based Pomodoro timer built in Go with Bubble Tea, ASCII art, session tracking, and weekly stats | [Repo](https://github.com/nunocoracao/Vibe30-day06-pomodoro) | [Release](https://github.com/nunocoracao/Vibe30-day06-pomodoro/releases/latest) | ✅ |
 | 07 | GitDash | A terminal dashboard for monitoring git repositories with color-coded status, search, and quick actions | [Repo](https://github.com/nunocoracao/Vibe30-day07-gitdash) | [Release](https://github.com/nunocoracao/Vibe30-day07-gitdash/releases/latest) | ✅ |
-| 08 | | | | | ⬜ |
+| 08 | NotesTUI | A terminal markdown notes app with full-text search, categories, themes, and an MCP server for AI integration | [Repo](https://github.com/nunocoracao/Vibe30-day08-notestui) | [Release](https://github.com/nunocoracao/Vibe30-day08-notestui/releases/latest) | ✅ |
 | 09 | | | | | ⬜ |
 | 10 | | | | | ⬜ |
 | 11 | | | | | ⬜ |
