@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-11%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-12%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -38,7 +38,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | 09 | TaskTUI | A terminal kanban board with vim navigation and an MCP server for Claude Code integration | [Repo](https://github.com/nunocoracao/Vibe30-day09-tasktui) | [Release](https://github.com/nunocoracao/Vibe30-day09-tasktui/releases/latest) | ✅ |
 | 10 | Miro Clone | A local-first infinite canvas whiteboard with shapes, sticky notes, smart connectors, layers, and presentation mode | [Repo](https://github.com/nunocoracao/Vibe30-day10-miroclone) | [Play](https://vibe30-day10-miroclone.vercel.app) | ✅ |
 | 11 | Treelo | A full-featured Trello-style kanban board with drag-and-drop, labels, calendar view, and activity tracking | [Repo](https://github.com/nunocoracao/Vibe30-day11-trelloclone) | [Play](https://vibe30-day11-trelloclone.vercel.app) | ✅ |
-| 12 | | | | | ⬜ |
+| 12 | Wordle | A Wordle clone with animations, synthesized sound effects, hard mode, stats, and share feature | [Repo](https://github.com/nunocoracao/Vibe30-day12-wordle) | [Play](https://vibe30-day12-wordle.vercel.app) | ✅ |
 | 13 | | | | | ⬜ |
 | 14 | | | | | ⬜ |
 | 15 | | | | | ⬜ |
