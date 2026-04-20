@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-14%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-15%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -41,7 +41,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection — just 
 | 12 | Wordle | A Wordle clone with animations, synthesized sound effects, hard mode, stats, and share feature | [Repo](https://github.com/nunocoracao/Vibe30-day12-wordle) | [Play](https://vibe30-day12-wordle.vercel.app) | ✅ |
 | 13 | GitFolio | A GitHub portfolio generator with 5 templates, 7 color themes, and one-click export to HTML | [Repo](https://github.com/nunocoracao/Vibe30-day13-githubportfolio) | [Play](https://vibe30-day13-githubportfolio.vercel.app) | ✅ |
 | 14 | WeatherTUI | A terminal weather dashboard with ASCII art, animated effects, multi-location support, and color themes | [Repo](https://github.com/nunocoracao/Vibe30-day14-weathertui) | - | ✅ |
-| 15 | | | | | ⬜ |
+| 15 | MyBrute Arena | An auto-battler game with combat, XP, loot, pets, skills, tournaments, and replays | [Repo](https://github.com/nunocoracao/Vibe30-day15-mybrute) | [Play](https://vibe30-day15-mybrute.vercel.app) | ✅ |
 | 16 | | | | | ⬜ |
 | 17 | | | | | ⬜ |
 | 18 | | | | | ⬜ |
