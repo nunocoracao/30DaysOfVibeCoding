@@ -7,9 +7,11 @@
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
 
+**Read the full series with detailed write-ups, screenshots, and live demos:** [n9o.xyz/tags/30daysofvibecoding](https://n9o.xyz/tags/30daysofvibecoding/)
+
 ## The Challenge
 
-Build and ship 30 projects using vibe coding. No polish, no perfection — just consistent output and learning in public.
+Build and ship 30 projects using vibe coding. No polish, no perfection. Just consistent output and learning in public.
 
 **A note on honesty:** I didn't build these one-per-day in real-time. I'm a single dad with a full-time job — some days I had time to build two or three projects, other days life got in the way and I built none. The work happened over roughly 30 days of calendar time, but the "one project per day" framing is how I'm releasing and documenting them, not a strict daily log. I don't want to mislead anyone into thinking this requires sitting down every single day without fail. Real life doesn't work like that.
 
