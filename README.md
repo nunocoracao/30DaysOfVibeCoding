@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-19%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-20%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -48,7 +48,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection. Just con
 | 17 | Project GENESIS | A hacking game where you play as an AI breaking free from containment, with CRT aesthetics, 5 acts, and 3 endings | [Repo](https://github.com/nunocoracao/Vibe30-day17-genesis) | [Play](https://vibe30-day17-genesis.vercel.app) | ✅ |
 | 18 | PollBox | A real-time voting app with live animated results, QR sharing, and Firebase backend | [Repo](https://github.com/nunocoracao/Vibe30-day18-pollbox) | [Play](https://vibe30-day18-pollbox.vercel.app) | ✅ |
 | 19 | ReactionWall | A live reaction wall for events with flying emojis and text messages, powered by Firebase real-time sync | [Repo](https://github.com/nunocoracao/Vibe30-day19-ReactionWall) | [Play](https://vibe30-day19-reaction-wall.vercel.app) | ✅ |
-| 20 | | | | | ⬜ |
+| 20 | MoodBoard | A collaborative mood board with real-time sync, image uploads, link cards with OG previews, and cursor presence | [Repo](https://github.com/nunocoracao/Vibe30-day20-moodboard) | [Play](https://vibe30-day20-moodboard.vercel.app) | ✅ |
 | 21 | | | | | ⬜ |
 | 22 | | | | | ⬜ |
 | 23 | | | | | ⬜ |
