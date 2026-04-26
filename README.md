@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-20%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-21%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -49,7 +49,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection. Just con
 | 18 | PollBox | A real-time voting app with live animated results, QR sharing, and Firebase backend | [Repo](https://github.com/nunocoracao/Vibe30-day18-pollbox) | [Play](https://vibe30-day18-pollbox.vercel.app) | ✅ |
 | 19 | ReactionWall | A live reaction wall for events with flying emojis and text messages, powered by Firebase real-time sync | [Repo](https://github.com/nunocoracao/Vibe30-day19-ReactionWall) | [Play](https://vibe30-day19-reaction-wall.vercel.app) | ✅ |
 | 20 | MoodBoard | A collaborative mood board with real-time sync, image uploads, link cards with OG previews, and cursor presence | [Repo](https://github.com/nunocoracao/Vibe30-day20-moodboard) | [Play](https://vibe30-day20-moodboard.vercel.app) | ✅ |
-| 21 | | | | | ⬜ |
+| 21 | ChatRooms | Anonymous real-time chat rooms with reactions, file sharing, typing indicators, and presence | [Repo](https://github.com/nunocoracao/Vibe30-day21-chatrooms) | [Play](https://vibe30-day21-chatrooms.vercel.app) | ✅ |
 | 22 | | | | | ⬜ |
 | 23 | | | | | ⬜ |
 | 24 | | | | | ⬜ |
