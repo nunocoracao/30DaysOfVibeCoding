@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-22%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-23%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -51,7 +51,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection. Just con
 | 20 | MoodBoard | A collaborative mood board with real-time sync, image uploads, link cards with OG previews, and cursor presence | [Repo](https://github.com/nunocoracao/Vibe30-day20-moodboard) | [Play](https://vibe30-day20-moodboard.vercel.app) | ✅ |
 | 21 | ChatRooms | Anonymous real-time chat rooms with reactions, file sharing, typing indicators, and presence | [Repo](https://github.com/nunocoracao/Vibe30-day21-chatrooms) | [Play](https://vibe30-day21-chatrooms-nir8.vercel.app) | ✅ |
 | 22 | LiveQ&A | A real-time Q&A board for events with live upvoting, host controls, and QR code sharing | [Repo](https://github.com/nunocoracao/Vibe30-day22-liveqa) | [Play](https://vibe30-day22-liveqa.vercel.app) | ✅ |
-| 23 | | | | | ⬜ |
+| 23 | RetroOS | A Windows 95-inspired desktop environment in the browser with draggable windows, classic apps, and a BSOD easter egg | [Repo](https://github.com/nunocoracao/Vibe30-day23-retroos) | [Play](https://vibe30-day23-retroos.vercel.app) | ✅ |
 | 24 | | | | | ⬜ |
 | 25 | | | | | ⬜ |
 | 26 | | | | | ⬜ |
