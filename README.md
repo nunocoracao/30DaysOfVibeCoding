@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-26%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-27%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -55,7 +55,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection. Just con
 | 24 | Reblog | A modern redesign of my personal blog, rebuilt from Hugo to Astro 5 with fuzzy search, dark mode, and custom typography | [Repo](https://github.com/nunocoracao/Vibe30-day24-reblog) | [Play](https://vibe30-day24-reblog.vercel.app) | ✅ |
 | 25 | SoundScape | An ambient sound mixer with procedurally generated audio, presets, a lo-fi beat generator, and shareable mixes | [Repo](https://github.com/nunocoracao/Vibe30-day25-soundscape) | [Play](https://vibe30-day25-soundscape.vercel.app) | ✅ |
 | 26 | PixelForge | A collaborative pixel art canvas with real-time drawing, layers, symmetry mode, and timelapse playback | [Repo](https://github.com/nunocoracao/Vibe30-day26-pixelforge) | [Play](https://vibe30-day26-pixelforge.vercel.app) | ✅ |
-| 27 | | | | | ⬜ |
+| 27 | Terminal | A native terminal emulator built with Tauri 2 and Rust, with tabs, split panes, themes, and AI-powered smart features | [Repo](https://github.com/nunocoracao/Vibe30-day27-terminal) | [Release](https://github.com/nunocoracao/Vibe30-day27-terminal/releases/latest) | ✅ |
 | 28 | | | | | ⬜ |
 | 29 | | | | | ⬜ |
 | 30 | | | | | ⬜ |
