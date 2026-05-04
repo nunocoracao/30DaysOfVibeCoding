@@ -2,7 +2,7 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-28%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-29%2F30-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
@@ -57,7 +57,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection. Just con
 | 26 | PixelForge | A collaborative pixel art canvas with real-time drawing, layers, symmetry mode, and timelapse playback | [Repo](https://github.com/nunocoracao/Vibe30-day26-pixelforge) | [Play](https://vibe30-day26-pixelforge.vercel.app) | ✅ |
 | 27 | Terminal | A native terminal emulator built with Tauri 2 and Rust, with tabs, split panes, themes, and AI-powered smart features | [Repo](https://github.com/nunocoracao/Vibe30-day27-terminal) | [Release](https://github.com/nunocoracao/Vibe30-day27-terminal/releases/latest) | ✅ |
 | 28 | ideA | A native desktop code editor built with Wails, Go, React, and Monaco Editor | [Repo](https://github.com/nunocoracao/Vibe30-day28-idea) | [Release](https://github.com/nunocoracao/Vibe30-day28-idea/releases/latest) | ✅ |
-| 29 | | | | | ⬜ |
+| 29 | n0ti0n | A Notion-inspired block editor with nested pages, slash commands, and real-time sync via Firebase | [Repo](https://github.com/nunocoracao/Vibe30-day29-n0ti0n) | [Play](https://vibe30-day29-n0ti0n.vercel.app) | ✅ |
 | 30 | | | | | ⬜ |
 
 ## Follow Along
