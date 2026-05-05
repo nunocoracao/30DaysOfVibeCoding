@@ -2,8 +2,8 @@
 
 # 30 Days of Vibe Coding
 
-![Progress](https://img.shields.io/badge/Progress-29%2F30-blue)
-![Status](https://img.shields.io/badge/Status-In%20Progress-green)
+![Progress](https://img.shields.io/badge/Progress-30%2F30-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 30 projects built with AI-assisted coding. Everything is rough. The point is learning, documenting, and shipping.
 
@@ -58,7 +58,7 @@ Build and ship 30 projects using vibe coding. No polish, no perfection. Just con
 | 27 | Terminal | A native terminal emulator built with Tauri 2 and Rust, with tabs, split panes, themes, and AI-powered smart features | [Repo](https://github.com/nunocoracao/Vibe30-day27-terminal) | [Release](https://github.com/nunocoracao/Vibe30-day27-terminal/releases/latest) | ✅ |
 | 28 | ideA | A native desktop code editor built with Wails, Go, React, and Monaco Editor | [Repo](https://github.com/nunocoracao/Vibe30-day28-idea) | [Release](https://github.com/nunocoracao/Vibe30-day28-idea/releases/latest) | ✅ |
 | 29 | n0ti0n | A Notion-inspired block editor with nested pages, slash commands, and real-time sync via Firebase | [Repo](https://github.com/nunocoracao/Vibe30-day29-n0ti0n) | [Play](https://blocknotes-lime.vercel.app) | ✅ |
-| 30 | | | | | ⬜ |
+| 30 | miniOs | A web-based desktop OS with window management, workspaces, themes, and all 30 Vibe30 projects as installable apps | [Repo](https://github.com/nunocoracao/Vibe30-day30-minios) | [Play](https://vibe30-day30-minios.vercel.app) | ✅ |
 
 ## Follow Along
 
